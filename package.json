@@ -11,6 +11,7 @@
     "clipboard-polyfill": "^2.5.4"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.10.2"
+    "parcel-bundler": "^1.10.2",
+    "typescript": "2.6.2"
   }
 }
